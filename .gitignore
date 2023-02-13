@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# dwm files
+dwm
+dwm.c.orig
+dwm.c.rej
