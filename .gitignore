@@ -55,3 +55,6 @@ dkms.conf
 dwm
 dwm.c.orig
 dwm.c.rej
+config.def.h.orig
+config.def.h.rej
+config.mk.orig
